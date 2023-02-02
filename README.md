@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajvardhan97" alt="rajvardhan97" /></a> </p>
 
-- 💬 Ask me about **Coding, Workout, Tech and the list goes on**
 
 - 📫 How to reach me **n.rajvardhan2627@gmail.com**
 
